@@ -1,0 +1,22 @@
+.form{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+
+.input{
+    margin-right: 30px;
+    width: 600px
+}
+
+.button{
+    width: 150px;
+    color: white;
+    background-color: blue;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+.main{
+    background-color: grey;
+}
